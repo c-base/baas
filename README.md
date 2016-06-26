@@ -12,4 +12,4 @@ Didschitell Trensformäischen, Mobeil Gehddon, Artifischel Everything, Embient J
 
 ## Thanks
 
-Thanks to wiilmaa for providing the script!
+Thanks to wiiilmaa for providing the script!
